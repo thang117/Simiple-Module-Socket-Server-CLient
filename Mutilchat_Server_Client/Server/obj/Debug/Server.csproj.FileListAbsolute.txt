@@ -1,0 +1,11 @@
+E:\LưuCODE\C#\LinhTinh\Mutilchat_Server_Client\Server\bin\Debug\Server.exe.config
+E:\LưuCODE\C#\LinhTinh\Mutilchat_Server_Client\Server\bin\Debug\Server.exe
+E:\LưuCODE\C#\LinhTinh\Mutilchat_Server_Client\Server\bin\Debug\Server.pdb
+E:\LưuCODE\C#\LinhTinh\Mutilchat_Server_Client\Server\obj\Debug\Server.Server.resources
+E:\LưuCODE\C#\LinhTinh\Mutilchat_Server_Client\Server\obj\Debug\Server.Properties.Resources.resources
+E:\LưuCODE\C#\LinhTinh\Mutilchat_Server_Client\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\LưuCODE\C#\LinhTinh\Mutilchat_Server_Client\Server\obj\Debug\Server.exe
+E:\LưuCODE\C#\LinhTinh\Mutilchat_Server_Client\Server\obj\Debug\Server.pdb
+E:\LưuCODE\C#\LinhTinh\Mutilchat_Server_Client\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\LưuCODE\C#\LinhTinh\Mutilchat_Server_Client\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\LưuCODE\C#\LinhTinh\Mutilchat_Server_Client\Server\obj\Debug\Server.MailForm.resources
